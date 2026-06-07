@@ -73,8 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lishhhh07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- <img src="https://github-profile-trophy.vercel.app/?username=Lishhhh07&theme=dracula&row=1&column=8" />
+  <img src="https://streak-stats.demolab.com?user=Lishhhh07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
@@ -93,14 +92,6 @@
 ###
 
 <h3 align="center">Debugging My Own Debugging</h3>
-
-###
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Lishhhh07&show_icons=true&theme=dracula" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lishhhh07&layout=compact&theme=dracula" />
-</div>
 
 ###
 
