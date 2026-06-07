@@ -1,0 +1,27 @@
+name: Trophy
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Trophy
+        uses: ryo-ma/github-profile-trophy@main
+        with:
+          username: Lishhhh07
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: trophy-output
+          publish_dir: .
