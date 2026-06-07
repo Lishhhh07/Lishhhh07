@@ -1,4 +1,4 @@
-<h1 align="center">Hey!! I'm Lishika 🌸<br>🚧 I build things that somehow work™</h1>
+<h1 align="center">Hey!! I'm Lishika 🌸<br>🚧 I build things that somehow work</h1>
 
 ###
 
