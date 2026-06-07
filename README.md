@@ -89,6 +89,10 @@
     src="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lishhhh07&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
+</div>
+
 ###
 
 <h3 align="center">Debugging My Own Debugging</h3>
