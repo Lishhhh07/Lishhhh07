@@ -80,9 +80,14 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/galaga-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/galaga-contribution-graph.svg">
+
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ###
@@ -92,8 +97,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/languages-output/languages.svg" height="150" alt="languages graph"  />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Lishhhh07&show_icons=true&theme=dracula" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lishhhh07&layout=compact&theme=dracula" />
 </div>
 
 ###
@@ -107,7 +113,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
