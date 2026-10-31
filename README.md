@@ -114,3 +114,44 @@ Current mission: turning ideas into projects and projects into production.
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+<h2 align="center">🏆 Achievements & Open Source</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/GSSoC%20'26-Top%20300%20%2F%2043%2C585-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/20%2B-Merged%20PRs-8957e5?style=for-the-badge&logo=github&logoColor=white" />
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🚀 Meta PyTorch OpenEnv</h3>
+        <b>Hackathon Finalist</b>
+        <br/><br/>
+        Selected among ~2,000 finalists
+        from 70,000+ registrations.
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ MSRIT Whackiest</h3>
+        <b>Top 25 Teams</b>
+        <br/><br/>
+        Recognized among the top 25
+        hackathon participants.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>💜 GirlScript Summer of Code '26</h3>
+        <b>Open Source Contributor</b>
+        <br/><br/>
+        20+ PRs merged · Ranked among the
+        Top 300 out of 43,585 contributors.
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
