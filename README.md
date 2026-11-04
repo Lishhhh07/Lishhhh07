@@ -13,8 +13,6 @@ Current mission: turning ideas into projects and projects into production.
 </h3>
 
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/galaga-contribution-graph-dark.svg">
@@ -26,16 +24,8 @@ Current mission: turning ideas into projects and projects into production.
     src="https://raw.githubusercontent.com/Lishhhh07/Lishhhh07/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lishhhh07&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
-</div>
-
-###
-
 <h4 align="center">🐛 Debugging My Own Debugging</h4>
 
-
-###
 
 <br clear="both">
 
@@ -65,8 +55,6 @@ Current mission: turning ideas into projects and projects into production.
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="12" />
@@ -132,21 +120,13 @@ Current mission: turning ideas into projects and projects into production.
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🚀 Meta PyTorch OpenEnv</h3>
+        <h3>🚀 Meta PyTorch OpenEnv Scalar</h3>
         <b>Hackathon Finalist</b>
         <br/><br/>
         Selected among ~2,000 finalists
         from 70,000+ registrations.
       </td>
-      <td align="center" width="50%">
-        <h3>⚡ MSRIT Whackiest</h3>
-        <b>Top 25 Teams</b>
-        <br/><br/>
-        Recognized among the top 25
-        hackathon participants.
-      </td>
-    </tr>
-    <tr>
+      <tr>
       <td align="center" colspan="2">
         <h3>💜 GirlScript Summer of Code '26</h3>
         <b>Open Source Contributor</b>
